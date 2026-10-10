@@ -6,6 +6,9 @@ venv/
 
 /output/
 /logs/
+/build/
+/dist/
+/*.spec
 /invoices/*.pdf
 !/invoices/invoice_2024_01.pdf
 !/invoices/invoice_2024_02.pdf
